@@ -1,1 +1,1 @@
-# -naive-bayes-algorithm
+# Naive Bayes algorithm example implementation
